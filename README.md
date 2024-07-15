@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Statistics and AI in Chung-Ang University.
+- 🌱 I’m currently studying Statistics and AI at Chung-Ang University.
 - 📫 How to reach me: khs6101kr@cau.ac.kr
