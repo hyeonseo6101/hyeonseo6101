@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently studying Statistics and AI at Chung-Ang University.
-- 📫 How to reach me: khs6101kr@cau.ac.kr
+- 🌱 I’m currently studying statistical and data science at Yonsei University graduate school.
+- 🌱 I graduated from Chung-Ang University with a degree in Statistics and AI.
+- 📫 How to reach me: hyeonseo6101@gmail.com
